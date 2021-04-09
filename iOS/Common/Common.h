@@ -89,9 +89,9 @@
 #define SOURCE_TYPE_INSERT_VIDEO 6
 
 //#define ENABLE_SHARE
-#define ENABLE_AD_GDT
+// #define ENABLE_AD_GDT
 // #define ENABLE_AD_Chsj
-#define ENABLE_AD_Baidu
+// #define ENABLE_AD_Baidu
 
 typedef enum
 {
