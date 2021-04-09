@@ -90,7 +90,7 @@
 
 //#define ENABLE_SHARE
 #define ENABLE_AD_GDT
-#define ENABLE_AD_Chsj
+// #define ENABLE_AD_Chsj
 #define ENABLE_AD_Baidu
 
 typedef enum
